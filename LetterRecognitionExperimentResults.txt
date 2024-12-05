@@ -1,0 +1,23 @@
+Letter Recognition Experiment Results
+=====================================
+Configuration:
+Number of Inputs: 16
+Number of Hidden Units: 40
+Number of Outputs: 26
+Learning Rate: 0.1
+Max Epochs: 2000
+
+Training Error Over Selected Epochs:
+Epoch	Error
+200	0.18518083348507483
+400	0.17040640355092498
+600	0.15518985054491885
+800	0.1463564895277696
+1000	0.14258375593544836
+1200	0.14485163698798498
+1400	0.13603406936966356
+1600	0.13762858071856798
+1800	0.13471268870338582
+2000	0.13446064228935012
+
+Final Test Set Accuracy: 91.43%
